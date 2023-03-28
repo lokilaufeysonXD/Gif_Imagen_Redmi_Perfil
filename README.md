@@ -11,12 +11,12 @@
 ### try to follow the following folder order
 
 <div id="header" align="center">
-    <h3 align="left"> 
+    <p align="left"> 
         GIf(mein folder) &nbsp;&nbsp;
           ⬆ Anime(folder where the image category is) &nbsp;&nbsp;&nbsp;&nbsp;
             ⬆ Evangelion(fold er where the image belongs) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               ⬆ Misato_drinking_beer.gif(descriptive name of the gif)
-    </h3>  
+    </p>  
 </div>
 
 ### ⚠⚠⚠ please follow the instructions ⚠⚠⚠
